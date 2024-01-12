@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QQccs
-- 👀 I’m interested in UX/UI Design, Escape Rooms and Cat memes
-- 🌱 I’m currently learning UX Design
+- 👀 I’m interested in Design, Escape Rooms and Cat memes
+- 🏁 I’m currently a Product Designer at Motorway.
 - 📫 How to reach me: polgarszinti@gmail.com
 
 <!---
